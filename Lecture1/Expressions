@@ -1,0 +1,46 @@
+syntax:
+<object> <operator> <object>
+has a value of a certain type.
+
+Examples:
+i+j
+3+2
+i-j
+i*j
+i/j
+i//j
+i**j
+
+Python uses higher level representation of types.
+
+5.0+2=7.0
+
+float division:
+5/2=2.5
+int division:
+5//2=2
+
+parantheses are used to tell Python to do certain operations first.
+
+operator precedence without parantheses:
+**
+*
+/
++ and -
+executed left to right as they appear in the expression.
+
+Example(s):
+
+---------------
+3*5+1=16.
+
+3*5=15
+
+15+1=16
+---------------
+3*(5+1)
+
+5+1=6
+
+3*6=18
+---------------
