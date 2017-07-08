@@ -1,0 +1,7 @@
+Programs that manipulate data objects.
+
+objects have a typethat defines the kinds of things programs can do to them
+
+objects are
+  scalar (cannot be subdivided)
+  non-scalar (have internal structure that can be accessed)
